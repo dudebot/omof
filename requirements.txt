@@ -1,0 +1,4 @@
+requests
+#something for robinhood data
+#something for vanguard api
+#optionally something for fidelity
