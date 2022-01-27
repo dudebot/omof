@@ -1,0 +1,1 @@
+# Calculates a stake pivot for a stock and optimal % buys if under / % sells if over

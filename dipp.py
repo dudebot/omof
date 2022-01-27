@@ -1,0 +1,1 @@
+# Scans whole market to determine potential dips to buy
